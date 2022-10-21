@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+.a1 {
+    background-color: #EEEEEE;
+    width: 90%;
+    margin: auto;
+    padding: 0px;
+}
+table {
+    margin: auto;
+    width: 90%;
+}
+.a1, .a2, .a3, .a4 {
+    text-align: center;
+    font-size:15px
+}
+.a2 {
+    background-color: #7EE5DA;
+    width: 38%;
+    margin: auto;
+}
+.a3 {
+    background-color: #70CCC2;
+    margin: auto;
+}
+.a4 {
+    background-color: #62B3AA;
+    margin: auto;
+}
+p{
+    font-size: 13px;
+}
